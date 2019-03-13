@@ -4,7 +4,7 @@
   "target_path": "device/xiaomi/oxygen"
   },
  {
-  "repository" : "dandroid_device_xiaomi_msm8953-oxygen",
+  "repository" : "android_device_xiaomi_msm8953-oxygen",
   "target_path" : "device/xiaomi/msm8953",
  },
  {
